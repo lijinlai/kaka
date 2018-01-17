@@ -1,0 +1,102 @@
+.Account {
+  width: 100%;
+  height: 100%;
+}
+.Account .header a{
+  width: 30%;
+  padding: 4% 0% 0 3%;
+
+}
+.Account .header a .xiaoyu{
+  width: 28%;
+  height: 70%;
+  padding: 2% 0% 4% 3%;
+
+}
+.Account .header img{
+  width: 8%;
+  height: 4%;
+  padding: 4% 0% 4% 3%;
+}
+.Account .header p{
+  width: 43%;
+}
+.qian{
+  padding-top: 15%;
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  border-bottom: 1px solid #ececec;
+
+}
+.qian img{
+  width: 18%;
+  height: 18%;
+  padding: 5% 10% 5% 1%;
+
+}
+.qian div{
+  margin-top: 2%;
+}
+.qian div p{
+  font-size: 0.8em;
+  color: #8f8f8f;
+  margin: 0;
+  padding-bottom: 5%;
+  width: 100%;
+}
+.qian div span{
+  font-size: 1em;
+  color: #8f8f8f;
+}
+.qian>a{
+  margin-left: 40%;
+  margin-top: 6%;
+  width: 24%;
+}
+.qian>a>p{
+  background-color: #d71f28;
+  line-height: 2;
+  color: #fff;
+  width: 100%;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.8em;
+}
+.Account .qian:nth-child(3){
+  padding-top: 3%;
+}
+.guai{
+  width: 50%;
+  margin: 0 auto;
+}
+.guai img{
+  display: block;
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 50%;
+  margin-bottom: 40%;
+}
+.ming{
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+}
+.ming div{
+  width: 50%;
+}
+.ming div img{
+  width: 36%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 4%;
+}
+.ming div a{
+  color: #000
+}
+.ming div p{
+  width: 44%;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 4%;
+}

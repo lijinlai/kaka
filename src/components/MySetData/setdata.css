@@ -1,0 +1,58 @@
+
+.MySetData .header a{
+  width: 8%;
+  height: 4%;
+  padding: 4% 0% 0 3%
+}
+.MySetData .header a img:nth-child(1){
+  width: 100%
+}
+.MySetData .header p{
+  line-height: 3;
+  padding: 0;
+  width: 31%;
+}
+.MySetData .tou{
+  background-image: url('../images/bg.png');
+  background-size: 180%;
+  position: relative;
+}
+.MySetData .tou img{
+  width: 26%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 20%;
+  padding-bottom: 12%;
+}
+.ant-btn{
+  font-size: 0.8em;
+  color: #000;
+  margin: 0 auto;
+  position: absolute;
+  top: 80%;
+  left: 33%;
+}
+.adata{
+  width: 100%;
+}
+.adata a{
+  color: #8f8f8f;
+}
+.adata a div{
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #efefef;
+  margin-top: 3%
+}
+.adata a div p{
+  width: 80%;
+  font-size: 0.9em;
+  display: flex;
+}
+.adata a div p span{
+  display: block;
+  padding-left: 5%;
+  width: 80%;
+}

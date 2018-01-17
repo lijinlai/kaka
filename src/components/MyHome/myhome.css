@@ -1,0 +1,89 @@
+.MyHome .kaka{
+  background-size: 200%;
+  position: relative;
+}
+.MyHome .kaka div{
+  width: 40%;
+  margin: 0 auto;
+  color: #ececec;
+  padding-bottom: 2%;
+}
+.MyHome .kaka div img{
+  width: 54%;
+}
+.MyHome .kaka div p{
+  font-size: 1em;
+  text-align: center;
+  padding: 3% 0;
+  margin: 0;
+
+}
+.MyHome .kaka .my div{
+  width: 50%;
+  font-size: 0.8em;
+  border: 1px solid #ccc ;
+  text-align: center;
+  border-radius: 5px;
+  padding: 2% 4%;
+}
+.MyHome .kaka .qiandao{
+  width: 14%;
+  border: 1px solid #ccc;
+  text-align: center;
+  border-radius: 8px;
+  padding: 0.5% 1%;
+  display: flex;
+  position: absolute;
+  right: 5%;
+  top: 25%;
+}
+.MyHome .kaka .qiandao img{
+  width: 30%;
+  height: 20%;
+  padding-top: 8%;
+  margin: 0;
+}
+.MyHome .kaka .qiandao p{
+  width: 80%;
+  font-size: 0.8em;
+}
+.MyHome .list{
+  width: 100%;
+  height: 100%;
+  background-color: #ececec;
+}
+.MyHome .list>div{
+  width: 100%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.MyHome .list>div>a{
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+  color: #8f8f8f
+}
+.MyHome .list>div>a>.aone,.MyHome .list>div>a>.aone>div{
+  display: flex;
+}
+.MyHome .list>div>a>.aone>img{
+  width:11%;
+  height: 10%;
+  padding: 3%
+}
+.MyHome .list>div>a>.aone>div{
+  width: 90%;
+  justify-content: space-between;
+  padding:3% 2% 2% 2%;
+  border-bottom: 1px solid #ececec;
+
+}
+.MyHome .list>div>a>.aone>div>p{
+  margin: 0
+}
+.MyHome .list>div:nth-child(2),.MyHome .list>div:nth-child(5){
+  margin-bottom: 1%;
+}
+.MyHome .list>div:nth-child(2)>a>.aone>div,.MyHome .list>div:nth-child(5)>a>.aone>div{
+  border: 0;
+}

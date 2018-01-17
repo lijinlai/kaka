@@ -1,0 +1,44 @@
+.MyAboutus .header img:nth-child(1){
+  width: 8%;
+  height: 4%;
+  padding: 4% 0% 0 3%
+}
+.MyAboutus .header p{
+  line-height: 3;
+  padding: 0;
+  width: 27%;
+}
+.MyAboutus>img{
+  width: 28%;
+  margin: 0 auto;
+  padding-top: 22%;
+  display: block;
+}
+.MyAboutus>p{
+  width: 30%;
+  font-size: 0.8em;
+  color: #6f6f6f;
+  margin: 0 auto;
+  padding-top: 3%
+}
+.MyAboutus>.data{
+  width: 100%;
+  padding-top: 5%
+}
+.MyAboutus>.data>p{
+  width: 88%;
+  margin: 0 auto;
+  font-size: 0.8em;
+  color: #8f8f8f;
+  line-height: 3;
+  border-bottom: 1px solid #f2f2f2;
+}
+.MyAboutus>.data>p:last-child{
+  border: 0;
+}
+.MyAboutus>.data>p>span{
+  width: 85%;
+  margin: 0 auto;
+  display: block;
+  line-height: 1.5
+}

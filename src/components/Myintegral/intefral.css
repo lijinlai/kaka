@@ -1,0 +1,88 @@
+.chong{
+  padding-top: 15%;
+  width: 90%;
+  margin: 0 auto;
+}
+.chong p{
+  line-height: 3;
+  margin-bottom: 0;
+}
+.moneny {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap:wrap;
+}
+.moneny button{
+  border: 1px solid red;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 0.8em;
+  padding: 1% 4%;
+  margin-right: 3%;
+  margin-top: 4%;
+  outline: none;
+}
+.moneny .active{
+  background-color: red;
+  color: #fff;
+}
+.else{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  padding-top: 5%;
+  font-size: 0.8em;
+  line-height: 2.2;
+  color: #ccc;
+}
+.else input{
+  border: 1px solid red;
+  border-radius: 5px;
+  width: 18%;
+  height: 30%;
+  padding:1% 0;
+}
+.else span{
+  padding-left: 5%;
+}
+.give{
+  width: 90%;
+  margin: 0 auto;
+}
+.give p{
+  margin: 0;
+}
+.give button{
+  border: 1px solid red;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 0.8em;
+  padding: 1% 4%;
+  margin-right: 3%;
+  margin-top: 4%;
+  outline: none;
+}
+.give .active{
+  background-color: red;
+  color: #fff;
+}
+.geiqian{
+  width: 90%;
+  margin: 4% auto;
+  display: flex;
+}
+.geiqian p{
+  padding-right: 3%
+}
+.queding{
+  width: 80%;
+  margin: 0 auto;
+  background-image: url('../images/bg.png');
+  background-size: 100%;
+  border-radius: 10px;
+  text-align: center;
+  color: #fff;
+  line-height: 2.5;
+  margin-top: 8%;
+}

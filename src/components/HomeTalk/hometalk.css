@@ -1,0 +1,89 @@
+
+.talk{
+  padding-top:18%;
+  width: 100%;
+}
+.talk div{
+  width: 90%;
+  margin: 0 auto
+}
+.talk .ping{
+  font-size: 1.2em;
+  border-bottom: 1px solid #eeeded;
+  padding-bottom: 2%
+}
+.talk .persion>div{
+  margin:5% 0 2% 0;
+}
+.talk .persion>div>img{
+  width: 15%;
+  height: 20%;
+}
+.talk .persion>div>div,.talk .persion>div{
+  display: flex;
+}
+.talk .persion>div>div{
+  padding: 4% 0% 0 3%;
+}
+.talk .persion>div>div>img{
+  width: 8%;
+  height: 50%;
+  padding-left: 2%;
+}
+.talk .persion>p{
+  width: 80%;
+  margin: 0 auto;
+  font-size: 0.9em;
+  color: #8f8f8f;
+}
+.talk .persion>.your{
+  width: 80%;
+  margin: 0 auto;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  font-size: 0.8em;
+  line-height: 3
+}
+.talk .persion>.your>p{
+  font-size: 0.8em;
+  color:#06cfb6;
+  line-height: 3;
+  padding: 0 2%;
+  margin: 0;
+}
+.talk .persion .your{
+  display: none
+}
+.talk .persion:nth-child(1) .your{
+  display: block;
+}
+.reply{
+  width: 100%;
+  background-color: red;
+  position: fixed;
+  bottom: 0
+}
+.reply div{
+  display: flex;
+  padding: 3% 3%;
+  justify-content: space-between;
+}
+.reply div img{
+  width: 12%;
+  height: 12%;
+  padding-right: 2%;
+}
+.reply div input{
+  width: 80%;
+  height: 15%;
+  padding: 3% 2%;
+  border: 0;
+  border-radius: 5px;
+}
+.reply div p{
+  width: 10%;
+  margin-left: 2%;
+  font-size: 1em;
+  color: #fff;
+  padding-top: 2%;
+}

@@ -1,0 +1,79 @@
+.Login .logo{
+  width: 28%;
+  margin: 15% 34% 18% 34%;
+}
+.Login .one,.Login .two{
+  width: 80%;
+  height: 20%;
+  background-color: #f4f4f4;
+  margin: 0 auto;
+  padding: 5% 7%;
+  display: flex;
+}
+.Login .one{
+  border-bottom: 1px solid #e2e2e2;
+}
+.Login .one img,.Login .two img{
+  width: 8%;
+  height: 10%;
+}
+.Login div input{
+  display: block;
+  background-color:  #f4f4f4;
+  border: 0;
+  outline: none;
+  padding-left: 4%;
+  margin-left: 2%;
+
+}
+
+.Login p{
+  text-align:center;
+  font-size: 0.8em;
+  color: #d5d5d5;
+}
+.Login p span{
+  font-size: 1em;
+  color: #51d6bb;
+}
+.Login .denglu{
+  width: 70%;
+  margin: 10% 15% 0 15%;
+}
+.Login .or{
+  width: 80%;
+  padding: 0;
+  display: flex;
+  margin: 0 auto;
+}
+.Login .or div{
+  width: 60%;
+  height: 20%;
+  margin-top: 10%;
+  border-bottom: 2px solid #ffecec;
+}
+.Login .or p{
+  font-size: 1em;
+  color: #fa1717;
+  padding: 0 3%;
+}
+.Login .icon{
+  background-color: #fff;
+  width: 40%;
+  margin: 0 auto;
+}
+.Login .icon img{
+  width: 16%;
+  margin: 0 8%;
+}
+.Login .btn{
+  width: 22%;
+  background-color: #b5b5b5;
+  line-height: 2;
+  color: #e5e5e5;
+  border-radius: 8px;
+  text-align: center;
+  font-size: .5em;
+  box-shadow: 1px 0.5px 1px 1px #ccc;
+  margin: 10% auto;
+}

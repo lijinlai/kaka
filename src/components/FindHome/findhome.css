@@ -1,0 +1,124 @@
+.FindHome{
+  width: 100%;
+  height: 100%;
+  background-color:rgba(244, 244, 244, 1);
+}
+.aaaa{
+  margin-top: 13%;
+  background-color:rgba(244, 244, 244, 1);
+  margin-bottom: 20%;
+}
+.ath{
+  width: 90%;
+  background-color: #fff;
+  border-radius:10px;
+  margin: 5% auto;
+
+}
+.ath .top{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.ath .top .left{
+  width: 40%;
+  display: flex;
+}
+.ath .top .left>a{
+  width: 30%;
+  height: 100%;
+}
+.ath .top .left>a>img{
+  width: 100%;
+  height: 80%;
+  display: flex;
+}
+.ath .top .left p{
+  font-size: 0.8em;
+  color: #006166;
+  padding-top: 15%;
+  padding-left: 7%;
+}
+.ath .top .left p>img{
+  width: 12%;
+  height:50%;
+}
+.ant-btn-primary{
+  background-color: #Fff;
+  border: 0;
+  color: #333;
+  margin-top: 25%;
+}
+.ath .min{
+  width: 90%;
+  margin: 0 auto;
+}
+.ath .min p{
+  color: #333;
+  font-size: 0.8em;
+}
+.ant-modal-header{
+  display: none;
+}
+.ant-modal-body>img{
+  width: 90%;
+  margin-left: 5%;
+}
+.ath .min>div{
+  display: flex;
+  justify-content: space-between;
+}
+.ath .min>div img{
+  width: 30%;
+  height: 100%;
+}
+.FindHome .ath:nth-child(3) .min>div>img{
+  display: none
+}
+.FindHome .ath:nth-child(3) .min>div>img:nth-child(1){
+  display: block;
+  width: 100%;
+}
+.ath .fot{
+  width: 90%;
+  margin: 0 auto;
+}
+.ath .fot{
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8em;
+  color: #333;
+  padding-top: 3%;
+}
+.ath .fot p{
+  width: 20%;
+}
+.ath .fot div{
+  display: flex;
+  /* justify-content: space-between; */
+  font-size: 0.8em;
+  color: #333;
+  width: 50%;
+}
+.ath .fot div:nth-child(2)>p{
+  width: 40%;
+}
+.ath .fot>div>img{
+  width: 12%;
+  height: 50%;
+}
+
+.ath .fot div:nth-child(3)>img:nth-child(1){
+  width: 14%;
+  margin:0 1%;
+}
+.ath .fot div:nth-child(3)>img:nth-child(3){
+  width: 11%;
+  height: 45%;
+  margin:0 1%;
+}
+.ath .fot div:nth-child(3)>img:nth-child(5){
+  width: 20%;
+  height: 70%;
+  margin-top: -2%;
+}

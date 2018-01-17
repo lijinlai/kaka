@@ -1,0 +1,37 @@
+.Home{
+  width: 100%;
+  overflow: hidden;
+}
+.Home .pic{
+  width: 400%;
+  height: 100vh;
+  display: flex;
+  transition: all 0.5s;
+}
+.Home .pic>img{
+  width: 25%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.Sign{
+  width: 25%;
+}
+.Sign .logo{
+  width: 33%;
+  margin: 33% 33% 0 33%;
+}
+.Sign p{
+  font-size: 1.8em;
+  text-align: center;
+  margin: 0;
+}
+.Sign .two{
+  margin-top: 15%;
+  font-size: 1.2em;
+}
+.Sign .dianji{
+  width: 33%;
+  margin: 33% 33% 0 33%
+}

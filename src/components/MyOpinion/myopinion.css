@@ -1,0 +1,97 @@
+.MyOpinion .header img:nth-child(1){
+  width: 8%;
+  height: 4%;
+  padding: 4% 0% 0 3%
+}
+.MyOpinion .header p{
+  line-height: 3;
+  padding: 0;
+  width: 27%;
+}
+.MyOpinion{
+  width: 100%;
+  background-color: #f6f6f6;
+}
+.open{
+  padding-top: 15%;
+  padding-bottom: 3%;
+
+}
+.open textarea{
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 0.9em;
+  margin-top: 4%;
+  border: 0;
+  padding: 3% 5%;
+  resize: none;
+  border-radius: 5px;
+}
+.open>p{
+  font-size: 0.9em;
+  color: #8f8f8f;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 3
+}
+.open div{
+  width: 100%;
+  background-color: #fff;
+  line-height: 3;
+  font-size: 0.9em;
+  color: #8f8f8f;
+  display: flex;
+  justify-content: space-between;
+  padding: 2% 5% 0 5%
+}
+.open div>p{
+  width: 80%;
+}
+.open div>div{
+  width: 20%;
+}
+.open div>div>div{
+  width: 50%;
+  height: 30%;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 50%;
+  margin-left: 45%;
+  margin-top: 26%;
+}
+.elseee{
+  width: 100%;
+  background-color: #fff;
+}
+.ant-radio-group{
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
+.elseee>div>div{
+
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ececec;
+}
+.elseee div p{
+  margin: 0;
+  line-height: 2.8;
+  color: #8f8f8f;
+  font-size: 0.9em;
+}
+.ant-radio-wrapper{
+  margin-top: 2%;
+}
+.tijiao{
+  width: 70%;
+  margin: 20% auto;
+  background-image: url('../images/bg.png');
+  background-size: 100%;
+  text-align:center;
+  color: #fff;
+  line-height: 3;
+  border-radius: 8px;
+
+}

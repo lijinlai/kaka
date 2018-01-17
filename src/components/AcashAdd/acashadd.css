@@ -1,0 +1,68 @@
+.AcashAdd {
+  width: 100%;
+  height: 100vh;
+  background-color: #ececec;
+}
+.AcashAdd .header p{
+  line-height: 3;
+  padding: 0;
+  width: 18%;
+  margin: 0 auto;
+}
+.inn{
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 20%;
+}
+.inn>img{
+  width: 20%;
+  margin: 0 auto;
+  display: block;
+}
+.inn>p{
+  width: 30%;
+  margin: 3% auto;
+  font-size: 0.8em;
+  padding-bottom: 5%
+}
+.inn div{
+  width: 90%;
+  background-color: #fff;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.inn div div{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.inn div p{
+  width: 50%;
+  margin: 0 auto;
+  line-height: 2.5;
+    font-size: 0.8em;
+}
+
+.inn div div:nth-child(1) p:nth-child(2){
+  width: 50%;
+}
+.inn div div:nth-child(1) p:nth-child(1){
+  width: 50%;
+}
+.inn div div p:nth-child(2){
+  width: 20%;
+}
+.inn div div p:nth-child(1){
+  width: 80%;
+}
+.inn>.tixian{
+  width: 90%;
+  background-image: url('../images/bg.png');
+  background-size: 100%;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 2.5;
+  color: #fff;
+  margin: 10% auto;
+}
